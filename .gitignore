@@ -1,0 +1,12 @@
+# Files #
+#################
+.DS_Store
+.Trashes
+.Spotlight-V100
+
+# Directories #
+#################
+__pycache__
+
+ignored/
+venv/
